@@ -1,10 +1,11 @@
 .programs-section {
     padding: 40px;
     background-color: #e9f5e9;
-    text-align: center;
-    margin: 20px;
+    text-align: center; 
+    margin: 20px auto; 
+    max-width: 800px; 
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 .programs-section h2 {
@@ -24,6 +25,8 @@
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 20px;
+    max-width: 100%; 
+    margin: 0 auto; 
 }
 
 .program-item {
