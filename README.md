@@ -1,2 +1,3 @@
 # Sunshine
-A simple html based site I made in my pass time, more of an hobby, I just tried copying how some sites I have seen, look.
+<h2>LIVE DEMO!</h2>
+Click <a href="https://alex773-design.github.io/Sunshine/">here!</a>
